@@ -6,3 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. No es fácil.
  rhoncus tristique a et erat. Sed dapibus varius diam, id congue dolor sagittis id. Nullam
  at velit in velit iaculis facilisis. Sed ac dolor lacus. Donec a metus non urna ultrices
  commodo. Donec laoreet blandit metus, a tristique felis tempor quis.
+ 
+ Basicamente estoy explorando los caminos del Git y las maravillas que esto implica llevar
+ a cabo las practicas culinarias de Java y GitHub combinando el arte bello de programar.
